@@ -1,7 +1,12 @@
 body {
-    margin: 0;
+   
     font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    background-image: url('/assets/brand/lechuza.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
+
 
 .top-container {
     background-color: #f1f1f1;
